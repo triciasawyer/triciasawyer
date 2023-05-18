@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
 
-
-
+&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/tricia-sawyer-9a3916268/)](https://www.linkedin.com/in/tricia-sawyer-9a3916268//)<br>
 
 <p align="center"><samp>
