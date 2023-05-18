@@ -1,5 +1,5 @@
 
-<h4 align="center"><samp> Hi and welcome to my Github!</samp></h4>
+<h4 align="center"><samp> Hi I'm Tricia and welcome to my Github!</samp></h4>
 
 :computer: Full stack Software Developer in the making.
 
