@@ -17,6 +17,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/tricia-sawyer-9a3916268/)](https://www.linkedin.com/in/tricia-sawyer-9a3916268//)<br>
 
 <p align="center"><samp>
