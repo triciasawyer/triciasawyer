@@ -1,6 +1,7 @@
 
 <h4 align="center"><samp> Hi and welcome to my Github!</samp></h4>
 
+:computer: Full stack Software Developer in the making.
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/tricia-sawyer-9a3916268/)](https://www.linkedin.com/in/tricia-sawyer-9a3916268//)<br>
 
