@@ -28,15 +28,18 @@
 &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/tricia-sawyer-9a3916268/)](https://www.linkedin.com/in/tricia-sawyer-9a3916268//)<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=triciasawyer" alt="Tricia's github stats" />
+</div>
+
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
 </p>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+<!-- 
  -->
 <!--
-**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
