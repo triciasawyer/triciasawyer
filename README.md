@@ -28,9 +28,11 @@
 &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/tricia-sawyer-9a3916268/)](https://www.linkedin.com/in/tricia-sawyer-9a3916268//)<br>
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=triciasawyer" alt="Tricia's github stats" />
 </div>
+ -->
 
 <p align="center"><samp>
 Check out my repos ⬇️  
